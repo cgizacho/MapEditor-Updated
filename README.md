@@ -1,4 +1,5 @@
 # MapEditor-Updated
+## Originally forked from OctoSquiddy's Map Editor 3.1
 A more updated + maintained version of OctoSquiddy's Splatoon 3 Map Editor
 
 # Install for use
